@@ -5,6 +5,8 @@
 I am a passionate and enthusiast developer, driven by a curiosity for tech, software development and AI. My journey involves delving into the world of computer science and exploring new ideas.
 
 ![<SirTebz>'s Stats](https://github-readme-stats.vercel.app/api?username=<SirTebz>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🚀 About Me
 
