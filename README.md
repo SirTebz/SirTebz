@@ -7,7 +7,7 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 
 ## 🚀 About Me
 
-- 🔭 I'm a Bachelor of Science in IT graduate majoring in Computer Science.
+- 🔭 I'm a graduate with a Bachelor of Science in IT majoring in Computer Science.
 - 🔭 I'm currently an Applications Development and Support Intern. I'm highly and actively looking for opportunities to grow my skills in the field.
 - I embrace collaborative teamwork and thrive in environments that promote innovation and growth.
 - ⚡ I'm a dedicated and passionate individual eager to excel in software development. I'm well-versed in languages like C#, ASP.NET Core, HTML, CSS, and JavaScript, along with relational databases like MS SQL Server.
