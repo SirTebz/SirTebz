@@ -2,7 +2,7 @@
 
 # I'm Teboho Mokgosi! ⚡
 
-I am a passionate and enthusiast developer, driven by a curiosity for tech, software development and AI. My journey involves delving into the world of computer science and exploring new ideas.
+I am a passionate and enthusiast developer, driven by a curiosity for tech, software development and cloud computing. My journey involves delving into the world of computer science and exploring new ideas.
 
 
 ## 🚀 About Me
