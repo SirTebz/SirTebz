@@ -20,8 +20,7 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Frontend Web Development
-  - Exploring the ins and outs of JavaScript, React and TypeScript for dynamic front-end experiences.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Exploring the ins and outs of front-end such as JavaScript, React and TypeScript.
 
 ## 📬 Get in Touch
 
