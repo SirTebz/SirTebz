@@ -2,16 +2,16 @@
 
 # I'm Teboho Mokgosi! ⚡
 
-I am a passionate and enthusiast developer, driven by a curiosity for tech, software development and cloud computing. My journey involves delving into the world of computer science and exploring new ideas.
+I am a passionate and enthusiast developer, driven by a curiosity for tech, software and web development. My journey involves delving into the world of tech and computer science.
 
 
 ## 🚀 About Me
 
 - 🔭 I'm a graduate with a Bachelor of Science in IT majoring in Computer Science from the University of the Free State.
-- 🔭 I'm currently an Applications Development and Support Intern. I'm highly and actively looking for opportunities to grow my skills in the field.
+- 🔭 I'm currently an Applications Development and Management Intern. I'm highly and actively looking for opportunities to grow my skills in the field.
 - ⚡ I embrace collaborative teamwork and thrive in environments that promote innovation and growth.
 - ⚡ I'm a dedicated and passionate individual eager to excel in software development. I'm well-versed in languages like C#, ASP.NET Core, HTML, CSS, and JavaScript, along with relational databases like MS SQL Server.
-- ⚡ I have a strong interest in frontend web development and cloud computing
+- ⚡ I have a strong interest in Software and Web development.
 
 
 ## Tech Stack
@@ -19,8 +19,8 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Frontend Web Development
-  - Exploring the ins and outs of front-end such as JavaScript, React and TypeScript.
+- 🚀 Exploring the ins and outs of front-end development such as JavaScript, React and TypeScript.
+- 🚀 Learning and exploring back-end development in C#, ASP.NET and SQL
 
 ## 📬 Get in Touch
 
@@ -31,7 +31,7 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 <!--
 - 🌐 [Checkout my page](https://)
 -->
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and explore the fascinating world of tech together. 🚀
 
 
 <!--
