@@ -15,14 +15,15 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 
 
 ## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,mysql,git,github,netlify,windows,linux,visualstudio,vscode,sublime&perline=5)](https://skillicons.dev)
+
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,mysql,git,github,netlify,windows,linux,visualstudio,vscode,sublime&perline=5" />
   </a>
 </p>
-
-<!--
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,mysql,git,github,netlify,windows,linux,visualstudio,vscode,sublime&perline=5)](https://skillicons.dev)
 -->
 
 ## 🌱 Currently Exploring
