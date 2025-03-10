@@ -15,7 +15,7 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,git,linux,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,mysql,git,github,netlify,windows,linux,visualstudio,vscode,sublime)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
