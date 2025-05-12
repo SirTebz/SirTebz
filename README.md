@@ -28,8 +28,8 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 
 ## 🌱 Currently Exploring
 
-- 🚀 Exploring the ins and outs of front-end development such as JavaScript, React and TypeScript.
-- 🚀 Learning and exploring back-end development in C#, ASP.NET and SQL
+- 🚀 Front-End development and Vibe Coding.
+- 🚀 Back-End development in C#, ASP.NET and SQL
 
 ## 📬 Get in Touch
 
