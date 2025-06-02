@@ -34,6 +34,7 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 ## 📬 Get in Touch
 
 - Connect with me on:
+- 🌐 [Portfolio](https://portfolio-website-tebohos-projects-2ca35a47.vercel.app/)
 - 🌐 [Twitter | X](https://twitter.com/sir_tebz)
 - 🌐 [Instagram](https://instagram.com/sir_tebz)
 - 🌐 [LinkedIn](https://linkedin.com/in/teboho-mokgosi)
