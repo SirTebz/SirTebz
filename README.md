@@ -13,10 +13,12 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 - ⚡ I'm a dedicated and passionate individual eager to excel in software development. I'm well-versed in languages like C#, ASP.NET Core, HTML, CSS, and JavaScript, along with relational databases like MS SQL Server.
 - ⚡ I have a strong interest in Software and Web development.
 
-
+<!--
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,mysql,git,github,netlify,windows,linux,visualstudio,vscode,codepen&perline=5)](https://skillicons.dev)
+
+-->
 
 <!--
 <p align="center">
