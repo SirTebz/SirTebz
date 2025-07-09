@@ -7,11 +7,11 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 
 ## 🚀 About Me
 
-🔭 I'm a graduate with a Bachelor of Science in IT majoring in Computer Science from the University of the Free State.
-🔭 I'm currently an Applications Development and Management Intern. I'm highly and actively looking for opportunities to grow my skills in the field.
-⚡ I embrace collaborative teamwork and thrive in environments that promote innovation and growth.
-⚡ I'm a dedicated and passionate individual eager to excel in software development. I'm well-versed in languages like C#, ASP.NET Core, HTML, CSS, and JavaScript, along with relational databases like MS SQL Server.
-⚡ I have a strong interest in Software and Web development.
+- 🔭 I'm a graduate with a Bachelor of Science in IT majoring in Computer Science from the University of the Free State.
+- 🔭 I'm currently an Applications Development and Management Intern. I'm highly and actively looking for opportunities to grow my skills in the field.
+- ⚡ I embrace collaborative teamwork and thrive in environments that promote innovation and growth.
+- ⚡ I'm a dedicated and passionate individual eager to excel in software development. I'm well-versed in languages like C#, ASP.NET Core, HTML, CSS, and JavaScript, along with relational databases like MS SQL Server.
+- ⚡ I have a strong interest in Software and Web development.
 
 <!--
 ## Tech Stack
@@ -30,16 +30,16 @@ I am a passionate and enthusiast developer, driven by a curiosity for tech, soft
 
 ## 🌱 Currently Exploring
 
-🚀 Front-End development and Vibe Coding.
-🚀 Back-End development in C#, ASP.NET and SQL
+- 🚀 Front-End development and Vibe Coding.
+- 🚀 Back-End development in C#, ASP.NET and SQL
 
 ## 📬 Get in Touch
 
 Connect with me on:
-🌐 [Portfolio](https://portfolio-website-tebohos-projects-2ca35a47.vercel.app/)
-🌐 [Twitter | X](https://twitter.com/sir_tebz)
-🌐 [Instagram](https://instagram.com/sir_tebz)
-🌐 [LinkedIn](https://linkedin.com/in/teboho-mokgosi)
+- 🌐 [Portfolio](https://portfolio-website-tebohos-projects-2ca35a47.vercel.app/)
+- 🌐 [Twitter | X](https://twitter.com/sir_tebz)
+- 🌐 [Instagram](https://instagram.com/sir_tebz)
+- 🌐 [LinkedIn](https://linkedin.com/in/teboho-mokgosi)
 <!--
 - 🌐 [Checkout my page](https://)
 -->
