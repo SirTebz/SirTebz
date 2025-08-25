@@ -63,7 +63,7 @@ Welcome to my GitHub! I'm passionate about building applications that solve real
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="REST APIs"/>
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" alt="Agile/Scrum"/>
-  <img src="https://cdn.simpleicons.org/windows/0078D6" width="40" height="40" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="MacOS"/>
@@ -72,10 +72,10 @@ Welcome to my GitHub! I'm passionate about building applications that solve real
 
 ## 📂 Featured Projects
 
-🔹 [Personal Portfolio](https://github.com/SirTebz/Portfolio-Website) — A responsive web portfolio showcasing my skills and projects
-🔹 [Employee Portal](https://github.com/SirTebz/EmployeePortalMVC) — a robust ASP .NET Core MVC application for managing internal employee data with secure, role-based access.
-🔹 [Budget Planner](https://github.com/SirTebz/BudgetPlanner) — A simple app to manage income and expenses
-🔹 [Mindful AI Chat](https://github.com/SirTebz/mindful-blue-chat)  — A modern chat UI built with React, TypeScript, Tailwind, and shadcn-ui
+- [Personal Portfolio](https://github.com/SirTebz/Portfolio-Website) — A responsive web portfolio showcasing my skills and projects
+- [Employee Portal](https://github.com/SirTebz/EmployeePortalMVC) — a robust ASP .NET Core MVC application for managing internal employee data with secure, role-based access.
+- [Budget Planner](https://github.com/SirTebz/BudgetPlanner) — A simple app to manage income and expenses
+- [Mindful AI Chat](https://github.com/SirTebz/mindful-blue-chat)  — A modern chat UI built with React, TypeScript, Tailwind, and shadcn-ui
 
 
 ## 📬 Get in Touch
