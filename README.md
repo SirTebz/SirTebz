@@ -81,10 +81,10 @@ Welcome to my GitHub! I'm passionate about building applications that solve real
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="REST APIs"/>
   
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" alt="Agile/Scrum"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" width="40" height="40" style="filter: invert(100%);" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/>
   
