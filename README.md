@@ -24,21 +24,32 @@ Welcome to my GitHub! I'm passionate about building applications that solve real
 ### 🖥️ Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
 </p>
 
-## ⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET Core MVC"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="Razor Pages"/>
+  
   <img src="https://cdn.simpleicons.org/blazor/512BD4" width="40" height="40" alt="Blazor"/>
+  
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="40" height="40" alt="Web API"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SASS"/>
 </p>
 
@@ -51,21 +62,32 @@ Welcome to my GitHub! I'm passionate about building applications that solve real
 ### 🛠️ Development Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" height="40" alt="WebStorm"/>
+  
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"/>
+  
   <img src="https://cdn.simpleicons.org/codepen/000000" width="40" height="40" alt="CodePen"/>
 </p>
 
 ### 🔧 Other Skills
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="REST APIs"/>
+  
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" alt="Agile/Scrum"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" width="40" height="40" style="filter: invert(100%);" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="MacOS"/>
 </p>
 
