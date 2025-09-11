@@ -2,11 +2,11 @@
 
 ## 💻 Software Developer | Aspiring Full-Stack Engineer | Tech Enthusiast
 
-Welcome to my GitHub! I'm passionate about building applications that solve real-world problems, with interests ranging from web development to software engineering and IT systems.Welcome to my GitHub! I'm passionate about building applications that solve real-world problems, with interests ranging from web development to software engineering and IT systems.
+Welcome to my GitHub! I'm passionate about building applications that solve real-world problems, with interests ranging from web development to software engineering and IT systems.
 
 ## 🚀 About Me
 
-- 🎓 Bachelor’s in Information Technology, majoring in Computer Science (University of the Free State)
+- 🎓 Bachelor of Science in Information Technology, majoring in Computer Science (University of the Free State)
 - 💼 Currently working as an IT Intern at the Department of Higher Education and Training
 - 🌱 Exploring ASP.NET Core MVC, React, and full-stack projects to strengthen my development skills
 - 🛠️ Love building portfolio-worthy applications that showcase creativity, problem-solving, and technical depth
