@@ -94,7 +94,7 @@ Welcome to my GitHub! I'm passionate about building applications that solve real
 
 ## 📂 Featured Projects
 
-- [Personal Portfolio](https://github.com/SirTebz/Portfolio-Website) — A responsive web portfolio showcasing my skills and projects
+- [Personal Portfolio](https://github.com/SirTebz/Portfolio-Website-II) — A responsive web portfolio showcasing my skills and projects
 - [Employee Portal](https://github.com/SirTebz/EmployeePortalMVC) — a robust ASP .NET Core MVC application for managing internal employee data with secure, role-based access.
 - [Budget Planner](https://github.com/SirTebz/BudgetPlanner) — A simple app to manage income and expenses
 - [Mindful AI Chat](https://github.com/SirTebz/mindful-blue-chat)  — A modern chat UI built with React, TypeScript, Tailwind, and shadcn-ui
@@ -103,7 +103,7 @@ Welcome to my GitHub! I'm passionate about building applications that solve real
 ## 📬 Get in Touch
 
 Connect with me on:
-- 🌐 [Portfolio](https://portfolio-website-tebohos-projects-2ca35a47.vercel.app/)
+- 🌐 [Portfolio](https://teboho-mokgosi.netlify.app/)
 - 🌐 [Twitter | X](https://twitter.com/sir_tebz)
 - 🌐 [Instagram](https://instagram.com/sir_tebz)
 - 🌐 [LinkedIn](https://linkedin.com/in/teboho-mokgosi)
