@@ -1,16 +1,54 @@
-# 👋 Hi, I'm Teboho Mokgosi
+#  Hi 👋 I'm Teboho Mokgosi
 
-## 💻 Software Developer | Aspiring Full-Stack Engineer | Tech Enthusiast
+## 💻 Software Engineer | Aspiring Full-Stack Developer | Tech Enthusiast
 
-Welcome to my GitHub! I'm passionate about building applications that solve real-world problems, with interests ranging from web development to software engineering and IT systems.
+Welcome to my GitHub!
+I'm a passionate software developer focused on building practical, scalable web applications.
+I enjoy solving real-world problems through clean architecture, structured backend systems, and intuitive user interfaces.
 
 ## 🚀 About Me
 
-- 🎓 Bachelor of Science in Information Technology, majoring in Computer Science (University of the Free State)
-- 💼 Currently working as an IT Intern at the Department of Higher Education and Training
-- 🌱 Exploring ASP.NET Core MVC, React, and full-stack projects to strengthen my development skills
-- 🛠️ Love building portfolio-worthy applications that showcase creativity, problem-solving, and technical depth
-- 🎯 Goal: Secure a role in Software Development
+- 🎓 Bachelor of Science in Information Technology, majoring in Computer Science (University of the Free State).
+- 🌱 Improving: Full-stack development, system design, and modern frontend frameworks.
+- 🎯 Goal: Secure a role in Software Development and grow into a strong Software Engineer.
+
+## Tech Stack
+
+### 🖥️ Languages
+- C#
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### ⚙️ Frameworks & Tools
+- ASP.NET Core (MVC, Blazor, Web API)
+- Razor Pages
+- React
+- Tailwind CSS
+- Bootstrap
+- SASS
+
+### 🗄️ Databases
+- SQL Server
+- PostgreSQL
+- MySQL
+
+### 🛠️ Development Tools
+- Visual Studio
+- Visual Studio Code
+- WebStorm
+- Netlify
+- Vercel
+- Azure
+- AWS
+
+### 🔧 Other Skills
+- Git
+- GitHub
+- REST APIs
+- Agile
+- Linux
 
 <!--
 ## Tech Stack
@@ -19,91 +57,55 @@ Welcome to my GitHub! I'm passionate about building applications that solve real
 
 -->
 
-## Tech Stack
-
-### 🖥️ Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
-</p>
-
-### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET Core MVC"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="Razor Pages"/>
-  
-  <img src="https://cdn.simpleicons.org/blazor/512BD4" width="40" height="40" alt="Blazor"/>
-  
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="40" height="40" alt="Web API"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SASS"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="40" height="40" alt="Supabase"/>
-</p>
-
-### 🛠️ Development Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" height="40" alt="WebStorm"/>
-  
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"/>
-  
-  <!--<img src="https://cdn.simpleicons.org/codepen/000000" width="40" height="40" alt="CodePen"/>-->
-</p>
-
-### 🔧 Other Skills
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="REST APIs"/>
-  
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" alt="Agile/Scrum"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" width="40" height="40" style="filter: invert(100%);" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="MacOS"/>
-</p>
-
-
 ## 📂 Featured Projects
 
-- [Personal Portfolio](https://github.com/SirTebz/Portfolio-Website-II) — A responsive web portfolio showcasing my skills and projects
-- [Employee Portal](https://github.com/SirTebz/EmployeePortalMVC) — a robust ASP .NET Core MVC application for managing internal employee data with secure, role-based access.
-- [Budget Planner](https://github.com/SirTebz/BudgetPlanner) — A simple app to manage income and expenses
-- [Mindful AI Chat](https://github.com/SirTebz/mindful-blue-ai-chat)  — A modern chat UI built with React, TypeScript, Tailwind, and shadcn-ui
+####🌐[Personal Portfolio](https://github.com/SirTebz/Portfolio-Website-II)
+- A modern personal portfolio website showcasing my projects, skills, and experience as a developer.
+  Features:
+- Responsive design across devices
+- Project showcase with detailed views
+- Contact form integration
 
+####✈️[Employee Portal](https://github.com/SirTebz/EmployeePortalMVC)
+- A full-stack web application for booking and managing flight reservations.
+  Features:
+- Flight search and booking system
+- User authentication and role management
+- Ticket management and booking history
+
+
+####🏘️[SMART Community Dashboard](https://github.com/SirTebz/BudgetPlanner)
+- A centralized platform for community engagement, announcements, and local updates.
+  Features:
+- Community notices and announcements
+- Event management and updates
+- User roles and interaction features
+
+####💰[Personal Finance Tracker](https://github.com/SirTebz/mindful-blue-ai-chat)
+- A web application to help users manage income, expenses, and financial goals.
+  Features:
+- Expense and income tracking
+- Budget planning and insights
+- Data visualization dashboards
+
+####🤖[Mindful AI Chat](https://github.com/SirTebz/mindful-blue-ai-chat)
+- An AI-powered chat application focused on meaningful, guided, and mindful conversations.
+  Features:
+- AI-driven conversational interface
+- Context-aware responses
+- Clean and user-friendly chat UI
+
+####🌦️[Weather App](https://github.com/SirTebz/Weather-app)
+- A responsive weather application using external APIs.
+  Features:
+- 7-day forecast
+- Real-time weather data
+- Clean UI design
 
 ## 📬 Get in Touch
 
 Connect with me on:
-- 🌐 [Portfolio](https://teboho-mokgosi.netlify.app/)
+- 🌐 [Portfolio](https://sirtebz.github.io/sir_tebz.dev/)
 - 🌐 [Twitter | X](https://twitter.com/sir_tebz)
 - 🌐 [Instagram](https://instagram.com/sir_tebz)
 - 🌐 [LinkedIn](https://linkedin.com/in/teboho-mokgosi)
