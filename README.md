@@ -97,7 +97,8 @@ I enjoy solving real-world problems through clean architecture, structured backe
 ### 🌦️[Weather App](https://github.com/SirTebz/Weather-app)
 - A responsive weather application using external APIs.
 - Features:
-* 7-day forecast
+* Current Weather Forecast
+* Interactive Map.
 * Real-time weather data
 * Clean UI design
 
