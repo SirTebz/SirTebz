@@ -59,14 +59,14 @@ I enjoy solving real-world problems through clean architecture, structured backe
 
 ## 📂 Featured Projects
 
-####🌐[Personal Portfolio](https://github.com/SirTebz/Portfolio-Website-II)
+### 🌐[Personal Portfolio](https://github.com/SirTebz/Portfolio-Website-II)
 - A modern personal portfolio website showcasing my projects, skills, and experience as a developer.
   Features:
 - Responsive design across devices
 - Project showcase with detailed views
 - Contact form integration
 
-####✈️[Employee Portal](https://github.com/SirTebz/EmployeePortalMVC)
+### ✈️[Employee Portal](https://github.com/SirTebz/EmployeePortalMVC)
 - A full-stack web application for booking and managing flight reservations.
   Features:
 - Flight search and booking system
@@ -74,28 +74,28 @@ I enjoy solving real-world problems through clean architecture, structured backe
 - Ticket management and booking history
 
 
-####🏘️[SMART Community Dashboard](https://github.com/SirTebz/BudgetPlanner)
+### 🏘️[SMART Community Dashboard](https://github.com/SirTebz/BudgetPlanner)
 - A centralized platform for community engagement, announcements, and local updates.
   Features:
 - Community notices and announcements
 - Event management and updates
 - User roles and interaction features
 
-####💰[Personal Finance Tracker](https://github.com/SirTebz/mindful-blue-ai-chat)
+### 💰[Personal Finance Tracker](https://github.com/SirTebz/mindful-blue-ai-chat)
 - A web application to help users manage income, expenses, and financial goals.
   Features:
 - Expense and income tracking
 - Budget planning and insights
 - Data visualization dashboards
 
-####🤖[Mindful AI Chat](https://github.com/SirTebz/mindful-blue-ai-chat)
+### 🤖[Mindful AI Chat](https://github.com/SirTebz/mindful-blue-ai-chat)
 - An AI-powered chat application focused on meaningful, guided, and mindful conversations.
   Features:
 - AI-driven conversational interface
 - Context-aware responses
 - Clean and user-friendly chat UI
 
-####🌦️[Weather App](https://github.com/SirTebz/Weather-app)
+### 🌦️[Weather App](https://github.com/SirTebz/Weather-app)
 - A responsive weather application using external APIs.
   Features:
 - 7-day forecast
